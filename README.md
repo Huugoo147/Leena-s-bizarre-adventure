@@ -2,7 +2,7 @@
 Bienvenu jeune aventurier. Si vous êtes en quête d'un mini RPG, vous êtes
 au bon endroit !
 
-- Pour déplacer Princesse Leena, vous allez devoir appuyer sur les flèches directionnelles.
+- Pour déplacer Princesse Leena, vous allez devoir appuyer sur le combo de déplacement en QWERTY ( WASD)
 - Pour soigner Princesse Leena, vous allez devoir appuyer sur espace.
 - Pour attaquer les ennemis avec Princesse Leena, vous allez devoir viser avec la souris et cliquer où vous voulez tirer.
 
